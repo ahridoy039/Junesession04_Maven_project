@@ -1,0 +1,2 @@
+cd C:\Users\ABDUR\eclipse-workspace\JuneSession3
+mvn clean install

@@ -1,0 +1,4 @@
+cd C:\Users\ABDUR\eclipse-workspace\JuneSession3
+mvn install clean
+
+GITHUB URL: https://github.com/ahridoy039/Junesession04_Maven_project.git
